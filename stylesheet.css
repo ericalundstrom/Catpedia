@@ -1,8 +1,13 @@
 div {
-    background-color: bisque;
+    background-color: #f0ebc1;
     width: 600px;
-    height: 200px;
+    height: 140px;
     text-align: center;
     margin: auto;
+    padding-top: 20px;
+    color: #bfa581;
+}
 
+#underrubrik {
+    font-size: 20px;
 }
