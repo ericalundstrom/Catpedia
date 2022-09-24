@@ -6,13 +6,14 @@ body {
 }
 
 #rubrik {
-    background-color: #f0ebc1;
+    background-color: #f2f0da;
     width: auto;
-    height: 130px;
+    height: 120px;
     padding-top: 15px;
-    color: #bfa581;
+    color: #978e6a;
     overflow: hidden;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
 }
 
 #underrubrik {
@@ -29,7 +30,7 @@ body {
 }
 
 #meny {
-    padding: 20px 0px;
+    padding: 16px 0px;
     border-bottom: 1px solid #dfdada;
     max-width: 600px;
     text-align: center;
@@ -40,8 +41,9 @@ body {
 
 #ragdoll {
     text-align: center;
-    margin-top: 30px;
+    margin-top: 20px;
     font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
 }
 
 .katt {
@@ -77,13 +79,13 @@ h3 {
     text-align: left;
     line-height: 1.4;
     border-bottom: 1px solid #dfdada;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     font-size: 12px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 footer {
-    margin: 50px;
+    margin: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 12px;
 }
