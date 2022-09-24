@@ -1,9 +1,14 @@
+body {
+    max-width: 700px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #rubrik {
     background-color: #f0ebc1;
     width: 700px;
     height: 140px;
-    text-align: center;
-    margin: auto;
     padding-top: 20px;
     color: #bfa581;
     overflow: hidden;
@@ -26,8 +31,7 @@
     max-width: 700px;
     text-align: center;
     overflow: hidden;
-    margin-left: auto;
-    margin-right: auto;
+
 }
 
 #ragdoll {
@@ -51,5 +55,13 @@
     border-radius: 50%;
     border: 1px solid black;
     border-bottom-width: 4px;
+}
 
+h3 {
+    text-align: left;
+}
+
+.text {
+    text-align: left;
+    line-height: 1.3;
 }
