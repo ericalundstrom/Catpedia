@@ -1,5 +1,5 @@
 body {
-    max-width: 500px;
+    max-width: 600px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -14,6 +14,7 @@ body {
     overflow: hidden;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 13px;
+    border-radius: 5px;
 }
 
 #underrubrik {
@@ -25,19 +26,16 @@ body {
     text-align: center;
     display: inline-block;
     color: #595757;
-    text-indent: 20px;
     text-decoration-style: dotted;
     font-size: 17px;
 }
 
-#meny {
-    padding: 13px 0px;
+#navigation {
+    padding: 13px;
     border-bottom: 1px solid #dfdada;
-    max-width: 600px;
     text-align: center;
-    overflow: hidden;
     color: #dfdada;
-
+    text-indent: 20px;
 }
 
 #ragdoll {
@@ -50,17 +48,18 @@ body {
 .katt {
     margin-left: auto;
     margin-right: auto;
-    max-width: 250px;
+    max-width: 300px;
 }
 
 .image {
     background-image: url("ragboll.jpg");
-    height: 230px;
-    width: 230px;
+    height: 300px;
+    width: 300px;
     background-size: cover;
     border-radius: 50%;
     border: 1px solid black;
     border-bottom-width: 4px;
+    background-position: center;
 }
 
 h3 {
@@ -71,7 +70,7 @@ h3 {
 .text {
     text-align: left;
     line-height: 1.4;
-    font-size: 12px;
+    font-size: 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
@@ -81,12 +80,12 @@ h3 {
     line-height: 1.4;
     border-bottom: 1px solid #dfdada;
     padding-bottom: 20px;
-    font-size: 12px;
+    font-size: 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 footer {
     margin: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 12px;
+    font-size: 15px;
 }
