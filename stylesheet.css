@@ -1,4 +1,4 @@
-div {
+#rubrik {
     background-color: #f0ebc1;
     width: 600px;
     height: 140px;
@@ -10,4 +10,17 @@ div {
 
 #underrubrik {
     font-size: 20px;
+}
+
+.link {
+    text-align: center;
+    display: inline-block;
+}
+
+#meny {
+    padding: 20px;
+    border-bottom: 1px solid #dfdada;
+    text-align: center;
+    margin-left: 25vw;
+    margin-right: 25vw;
 }
