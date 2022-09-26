@@ -23,11 +23,11 @@ body {
 }
 
 .link {
-    text-align: center;
-    display: inline-block;
+    display: inline;
     color: #595757;
     text-decoration-style: dotted;
     font-size: 17px;
+    padding: 10px;
 }
 
 #navigation {
@@ -35,7 +35,6 @@ body {
     border-bottom: 1px solid #dfdada;
     text-align: center;
     color: #dfdada;
-    text-indent: 20px;
 }
 
 #ragdoll {
