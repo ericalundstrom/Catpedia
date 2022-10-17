@@ -30,11 +30,15 @@ body {
     padding: 10px;
 }
 
+#container {
+    border-bottom: 1px solid #dfdada;
+}
+
 #navigation {
     padding: 13px;
-    border-bottom: 1px solid #dfdada;
     text-align: center;
     color: #dfdada;
+    display: inline-block;
 }
 
 #ragdoll {
